@@ -8,7 +8,6 @@
 
 
 // testing the view
-// добавим текса для гита
 var view = {
 	displayMessage: function(msg) {
 		var messageArea = document.getElementById("messageArea");
